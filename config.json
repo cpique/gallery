@@ -47,6 +47,22 @@
       "compressed_path": "./photos/Argentina/ARG006.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Argentina/ARG006.placeholder.jpg"
+    },
+    {
+      "width": 756,
+      "height": 945,
+      "path": "./photos/Argentina/ARG009.jpg",
+      "compressed_path": "./photos/Argentina/ARG009.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Argentina/ARG009.placeholder.jpg"
+    },
+    {
+      "width": 810,
+      "height": 777,
+      "path": "./photos/Argentina/ARG010.jpg",
+      "compressed_path": "./photos/Argentina/ARG010.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Argentina/ARG010.placeholder.jpg"
     }
   ],
   "Travel Photography": [
@@ -284,7 +300,7 @@
     },
     {
       "width": 756,
-      "height": 503,
+      "height": 446,
       "path": "./photos/Travel Photography/TRA033.jpg",
       "compressed_path": "./photos/Travel Photography/TRA033.min.jpg",
       "compressed": false,
@@ -361,14 +377,6 @@
       "compressed_path": "./photos/Travel Photography/TRA045.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Travel Photography/TRA045.placeholder.jpg"
-    },
-    {
-      "width": 756,
-      "height": 446,
-      "path": "./photos/Travel Photography/TRA046.jpg",
-      "compressed_path": "./photos/Travel Photography/TRA046.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/TRA046.placeholder.jpg"
     }
   ],
   "Z": [
@@ -422,7 +430,7 @@
     },
     {
       "width": 756,
-      "height": 945,
+      "height": 567,
       "path": "./photos/Z/Z007.jpg",
       "compressed_path": "./photos/Z/Z007.min.jpg",
       "compressed": false,
@@ -525,8 +533,8 @@
       "placeholder_path": "./photos/Z/Z019.placeholder.jpg"
     },
     {
-      "width": 810,
-      "height": 777,
+      "width": 756,
+      "height": 503,
       "path": "./photos/Z/Z020.jpg",
       "compressed_path": "./photos/Z/Z020.min.jpg",
       "compressed": false,
@@ -603,22 +611,6 @@
       "compressed_path": "./photos/Z/Z029.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Z/Z029.placeholder.jpg"
-    },
-    {
-      "width": 756,
-      "height": 503,
-      "path": "./photos/Z/Z030.jpg",
-      "compressed_path": "./photos/Z/Z030.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Z/Z030.placeholder.jpg"
-    },
-    {
-      "width": 756,
-      "height": 567,
-      "path": "./photos/Z/Z031.jpg",
-      "compressed_path": "./photos/Z/Z031.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Z/Z031.placeholder.jpg"
     }
   ]
 }
