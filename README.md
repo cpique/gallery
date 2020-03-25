@@ -68,6 +68,6 @@ Columns takes priority if both are set.
 ### Observations
 For those of you having issues running `setup.command`, try only this line in a Powershell window (Python must be installed in the machine):
 ``` 
-python "C:\Users\Cristian Pique\Desktop\gallery\tools\setup.py"  
+python "{YOUR_PATH}\tools\setup.py"  
 ```
 
