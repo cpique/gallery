@@ -71,3 +71,8 @@ For those of you having issues running `setup.command`, try only this line in a 
 python "{YOUR_PATH}\tools\setup.py"  
 ```
 
+### TODO
+
+- Improve image loading, it currently takes a lot of time
+- Reduce image size
+- Consider using https://developers.google.com/speed/pagespeed/insights/ recomendations
