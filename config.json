@@ -49,6 +49,22 @@
       "placeholder_path": "./photos/Argentina/ARG006.placeholder.jpg"
     },
     {
+      "width": 959,
+      "height": 532,
+      "path": "./photos/Argentina/ARG007.jpg",
+      "compressed_path": "./photos/Argentina/ARG007.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Argentina/ARG007.placeholder.jpg"
+    },
+    {
+      "width": 756,
+      "height": 1008,
+      "path": "./photos/Argentina/ARG008.jpg",
+      "compressed_path": "./photos/Argentina/ARG008.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Argentina/ARG008.placeholder.jpg"
+    },
+    {
       "width": 756,
       "height": 945,
       "path": "./photos/Argentina/ARG009.jpg",
@@ -63,6 +79,134 @@
       "compressed_path": "./photos/Argentina/ARG010.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Argentina/ARG010.placeholder.jpg"
+    },
+    {
+      "width": 605,
+      "height": 807,
+      "path": "./photos/Argentina/ARG011.png",
+      "compressed_path": "./photos/Argentina/ARG011.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Argentina/ARG011.placeholder.png"
+    },
+    {
+      "width": 605,
+      "height": 807,
+      "path": "./photos/Argentina/ARG012.png",
+      "compressed_path": "./photos/Argentina/ARG012.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Argentina/ARG012.placeholder.png"
+    },
+    {
+      "width": 800,
+      "height": 600,
+      "path": "./photos/Argentina/ARG013.jpg",
+      "compressed_path": "./photos/Argentina/ARG013.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Argentina/ARG013.placeholder.jpg"
+    },
+    {
+      "width": 800,
+      "height": 600,
+      "path": "./photos/Argentina/ARG014.jpg",
+      "compressed_path": "./photos/Argentina/ARG014.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Argentina/ARG014.placeholder.jpg"
+    },
+    {
+      "width": 800,
+      "height": 600,
+      "path": "./photos/Argentina/ARG015.jpg",
+      "compressed_path": "./photos/Argentina/ARG015.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Argentina/ARG015.placeholder.jpg"
+    },
+    {
+      "width": 414,
+      "height": 736,
+      "path": "./photos/Argentina/ARG016.jpg",
+      "compressed_path": "./photos/Argentina/ARG016.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Argentina/ARG016.placeholder.jpg"
+    },
+    {
+      "width": 1125,
+      "height": 2000,
+      "path": "./photos/Argentina/ARG017.jpg",
+      "compressed_path": "./photos/Argentina/ARG017.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Argentina/ARG017.placeholder.jpg"
+    },
+    {
+      "width": 497,
+      "height": 884,
+      "path": "./photos/Argentina/ARG018.jpg",
+      "compressed_path": "./photos/Argentina/ARG018.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Argentina/ARG018.placeholder.jpg"
+    },
+    {
+      "width": 497,
+      "height": 884,
+      "path": "./photos/Argentina/ARG019.jpg",
+      "compressed_path": "./photos/Argentina/ARG019.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Argentina/ARG019.placeholder.jpg"
+    },
+    {
+      "width": 828,
+      "height": 1472,
+      "path": "./photos/Argentina/ARG020.jpg",
+      "compressed_path": "./photos/Argentina/ARG020.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Argentina/ARG020.placeholder.jpg"
+    },
+    {
+      "width": 621,
+      "height": 1104,
+      "path": "./photos/Argentina/ARG021.jpg",
+      "compressed_path": "./photos/Argentina/ARG021.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Argentina/ARG021.placeholder.jpg"
+    },
+    {
+      "width": 756,
+      "height": 1008,
+      "path": "./photos/Argentina/ARG022.png",
+      "compressed_path": "./photos/Argentina/ARG022.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Argentina/ARG022.placeholder.png"
+    },
+    {
+      "width": 605,
+      "height": 807,
+      "path": "./photos/Argentina/ARG023.png",
+      "compressed_path": "./photos/Argentina/ARG023.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Argentina/ARG023.placeholder.png"
+    },
+    {
+      "width": 605,
+      "height": 807,
+      "path": "./photos/Argentina/ARG024.png",
+      "compressed_path": "./photos/Argentina/ARG024.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Argentina/ARG024.placeholder.png"
+    },
+    {
+      "width": 605,
+      "height": 807,
+      "path": "./photos/Argentina/ARG025.png",
+      "compressed_path": "./photos/Argentina/ARG025.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Argentina/ARG025.placeholder.png"
+    },
+    {
+      "width": 605,
+      "height": 807,
+      "path": "./photos/Argentina/ARG026.png",
+      "compressed_path": "./photos/Argentina/ARG026.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Argentina/ARG026.placeholder.png"
     }
   ],
   "Travel Photography": [
@@ -300,11 +444,43 @@
     },
     {
       "width": 756,
+      "height": 1008,
+      "path": "./photos/Travel Photography/TRA030.jpg",
+      "compressed_path": "./photos/Travel Photography/TRA030.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/TRA030.placeholder.jpg"
+    },
+    {
+      "width": 756,
+      "height": 1008,
+      "path": "./photos/Travel Photography/TRA031.jpg",
+      "compressed_path": "./photos/Travel Photography/TRA031.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/TRA031.placeholder.jpg"
+    },
+    {
+      "width": 742,
+      "height": 989,
+      "path": "./photos/Travel Photography/TRA032.jpg",
+      "compressed_path": "./photos/Travel Photography/TRA032.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/TRA032.placeholder.jpg"
+    },
+    {
+      "width": 756,
       "height": 446,
       "path": "./photos/Travel Photography/TRA033.jpg",
       "compressed_path": "./photos/Travel Photography/TRA033.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Travel Photography/TRA033.placeholder.jpg"
+    },
+    {
+      "width": 1210,
+      "height": 1613,
+      "path": "./photos/Travel Photography/TRA034.jpg",
+      "compressed_path": "./photos/Travel Photography/TRA034.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/TRA034.placeholder.jpg"
     },
     {
       "width": 864,
@@ -345,6 +521,22 @@
       "compressed_path": "./photos/Travel Photography/TRA039.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Travel Photography/TRA039.placeholder.jpg"
+    },
+    {
+      "width": 448,
+      "height": 795,
+      "path": "./photos/Travel Photography/TRA040.jpg",
+      "compressed_path": "./photos/Travel Photography/TRA040.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/TRA040.placeholder.jpg"
+    },
+    {
+      "width": 448,
+      "height": 795,
+      "path": "./photos/Travel Photography/TRA041.jpg",
+      "compressed_path": "./photos/Travel Photography/TRA041.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/TRA041.placeholder.jpg"
     },
     {
       "width": 756,
@@ -611,6 +803,14 @@
       "compressed_path": "./photos/Z/Z029.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Z/Z029.placeholder.jpg"
+    },
+    {
+      "width": 600,
+      "height": 750,
+      "path": "./photos/Z/Z030.png",
+      "compressed_path": "./photos/Z/Z030.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Z/Z030.placeholder.png"
     }
   ]
 }
